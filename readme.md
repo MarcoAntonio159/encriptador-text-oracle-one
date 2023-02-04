@@ -51,7 +51,7 @@ paitober" => "pato"
 - Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del ctrl+C o de la opción "copiar" del menú de las aplicaciones.
 
 ### Contenido brindado:
-- [Video explicando el challenge](http://https://youtu.be/BLgio_oPkLw "Video explicando el challende")
+- [Video explicando el challenge](https://youtu.be/BLgio_oPkLw "Video explicando el challende")
 - [Toda la informacion necesaria](https://www.aluracursos.com/challenges/challenge-one-logica/sprint01-construye-un-encriptador-texto-con-javascript "Toda la informacion necesaria")
 - [Tarjetas de Trello](https://trello.com/b/WTdfcewC/encriptador-de-texto-alura-challenges-one "Tarjetas de Trello")
 - [Modelo en Figma](https://www.figma.com/file/trP3p5nEh7XUyB3n2bomjP/Alura-Challenge---Desaf%C3%ADo-1---L%C3%B3gica "Modelo en Figma")
