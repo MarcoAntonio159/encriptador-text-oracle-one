@@ -31,8 +31,8 @@ Las llaves de encriptacion solicitadas son las siguientes:
 
 ```
 Por ejemplo:
-"gato" => "gaitober"
-gaitober" => "gato"
+"pato" => "paitober"
+paitober" => "pato"
 ```
 
 - La página debe tener campos para inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre as dos opciones.
